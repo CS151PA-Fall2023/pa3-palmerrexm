@@ -1,13 +1,14 @@
 /**
  * @file main.cpp
- * @author your name (you@domain.com)
+ * @author Rex Palmer
  * @brief 
  * @version 0.1
- * @date 
+ * @date 9/30/2023
  * 
  */
 #include <iostream>
-#include "Rational.h"
+#include <string>
+#include "rational.h"
 
 using std::cout;
 using std::endl;
